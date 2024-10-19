@@ -25,7 +25,6 @@
       </form>
     </div>
     </div>
-    </body>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
